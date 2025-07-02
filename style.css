@@ -1,0 +1,99 @@
+#nav-bar {
+    border: solid 2px rgb(20, 220, 97);
+height: 100px;
+width: 50%;
+display: flex;
+justify-content: flex-end;
+justify-content: flex-start;
+justify-content: center;
+justify-content: space-between;
+justify-content: space-evenly;
+justify-content: space-around;
+justify-content: space-around;
+align-items: flex-end;
+align-items: flex-start;
+align-items: center;
+}
+   
+#nav-bar a {
+color: darkolivegreen;
+font-size: 40px;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+font-weight: bold;
+
+}
+
+#nav-bar a:hover {
+color: grey;
+
+
+}
+
+
+
+
+h1 {
+color: rgb(0, 72, 255);
+font: size 30px;
+background-color: beige;
+
+}
+
+/* this is how to style a class */
+.mountain {
+    width:30%;
+}
+
+img {width:30%;
+
+
+
+
+}
+
+
+
+
+
+
+.cornwall {
+    width: 20%;
+
+
+}
+
+.mountain {
+
+    width: 20%;
+
+}
+
+
+.toucan{
+
+width: 20%;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
